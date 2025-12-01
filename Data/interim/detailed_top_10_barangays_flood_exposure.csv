@@ -1,0 +1,9 @@
+barangay,municipality,population,area_hectares,pct_area_in_buffer,area_in_buffer_hectares,people_in_hazard,risk_category,pop_density_per_hectare
+Barangay_1_1,Bulacan,20795,5122.26,80.53,4125.06,16747,Very High Risk,4.06
+Barangay_4_4,Bulacan,10311,19227.83,17.72,3407.1,1827,Medium Risk,0.54
+Barangay_3_4,Bulacan,6685,19227.83,18.85,3625.27,1260,Medium Risk,0.35
+Barangay_4_5,Bulacan,42819,16360.56,2.46,401.83,1052,Medium Risk,2.62
+Barangay_1_2,Bulacan,5860,11675.44,13.24,1545.58,776,Low Risk,0.5
+Barangay_2_1,Bulacan,16284,9550.15,2.62,250.49,427,Low Risk,1.71
+Barangay_3_5,Bulacan,5769,18692.76,2.38,444.75,137,Low Risk,0.31
+Barangay_2_2,Bulacan,11265,19227.56,0.03,5.16,3,Low Risk,0.59

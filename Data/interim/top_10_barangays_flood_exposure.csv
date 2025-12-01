@@ -1,0 +1,9 @@
+rank,barangay,municipality,population,pct_area_in_buffer,people_in_hazard
+1,Barangay_1_1,Bulacan,20795,80.53,16747
+2,Barangay_4_4,Bulacan,10311,17.72,1827
+3,Barangay_3_4,Bulacan,6685,18.85,1260
+4,Barangay_4_5,Bulacan,42819,2.46,1052
+5,Barangay_1_2,Bulacan,5860,13.24,776
+6,Barangay_2_1,Bulacan,16284,2.62,427
+7,Barangay_3_5,Bulacan,5769,2.38,137
+8,Barangay_2_2,Bulacan,11265,0.03,3
